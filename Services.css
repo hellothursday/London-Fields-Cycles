@@ -1,0 +1,41 @@
+.main {
+    border: 2px dashed #a6a6a6;
+  padding: 20px 27px;
+  border-radius: 6px;
+  background-color: #FCFBFB;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.main-second {
+    border: 2px dashed #a6a6a6;
+  padding: 20px 27px;
+  border-radius: 6px;
+  background-color: #FCFBFB;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.service {
+ border: 2px solid #E7E6E6;
+  padding: 20px 27px;
+  border-radius: 6px;
+  background-color: #FCFBFB;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.list_item {
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    width: 225px;
+  border: 1px solid gray;
+}
+#wrap {
+    width:460px;
+  text-align: center;
+    column-count:2;
+    column-gap:20px;
+    -moz-column-count:2;
+    -moz-column-gap:20px;
+    -webkit-column-count:2;
+    -webkit-column-gap:20px;
+}
